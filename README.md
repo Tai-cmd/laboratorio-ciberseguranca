@@ -79,7 +79,7 @@ sudo nft add rule inet filter input iif lo accept
 ### Cenário:
 Testei o monitoramento fazendo tentativas de acesso **de outro computador** (Windows) para verificar se o sistema detecta origens diferentes.
 
-- **Origem:** Computador Windows — `192.168.19.56`
+- **Origem:** Computador Windows — `192.168.19.X`
 - **Alvo:** Servidor Debian
 - **Credenciais:** inválidas (usuário inexistente/senha errada)
 - **Tentativas:** 3 em menos de 15 segundos
