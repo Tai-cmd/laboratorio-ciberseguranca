@@ -86,9 +86,9 @@ Testei o monitoramento fazendo tentativas de acesso **de outro computador** (Win
 
 ### Evidência capturada:
 
-out 06 17:00:07 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.56 port 26833 ssh2
-out 06 17:00:12 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.56 port 26833 ssh2
-out 06 17:00:18 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.56 port 26833 ssh2
+out 06 17:00:07 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.X port 26833 ssh2
+out 06 17:00:12 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.X port 26833 ssh2
+out 06 17:00:18 webserver sshd-session[14529]: Failed password for invalid user senhaerrada from 192.168.19.X port 26833 ssh2
 
 
 ### ✅ Conclusão:
